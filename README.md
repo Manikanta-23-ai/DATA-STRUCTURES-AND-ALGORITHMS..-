@@ -2,12 +2,10 @@
 
 A comprehensive collection of **Data Structures and Algorithms** solutions in Java. This repository contains implementations of essential DSA problems for interview preparation, competitive coding practice, and skill development.
 
-## 📋 Overview
-
+## Overview
 This repository showcases clean, efficient implementations of fundamental data structure and algorithm problems. Each solution is optimized for both time and space complexity, making it ideal for coding interviews and competitive programming.
 
-## 📁 Files & Descriptions
-
+## Files & Descriptions
 ### 1. **TWOS-SUM.java**
 **Problem**: Two Sum Problem
 - **Description**: Find two numbers in an array that add up to a target sum
@@ -47,8 +45,7 @@ This repository showcases clean, efficient implementations of fundamental data s
 - **Key Concepts**: Sliding window technique, set operations, dynamic window management
 - **Feature**: Window size maintained at most k elements for efficient duplicate detection
 
-## 🚀 How to Use
-
+## How to Use
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Manikanta-23-ai/DATA-STRUCTURES-AND-ALGORITHMS..git
@@ -67,16 +64,14 @@ This repository showcases clean, efficient implementations of fundamental data s
    - Create a main method or test class to run each solution
    - Try different test cases for understanding edge cases
 
-## 💡 Learning Objectives
-
+## Learning Objectives
 - ✅ Master fundamental data structures (Arrays, HashSets)
 - ✅ Understand time and space complexity analysis
 - ✅ Learn optimization techniques (sliding window, hashing)
 - ✅ Prepare for technical interviews
 - ✅ Improve competitive coding skills
 
-## 🎯 Complexity Analysis Summary
-
+## Complexity Analysis Summary
 | Problem | Time Complexity | Space Complexity | Algorithm Type |
 |---------|-----------------|------------------|----------------|
 | Two Sum | O(n²) | O(1) | Nested Loops |
@@ -84,40 +79,34 @@ This repository showcases clean, efficient implementations of fundamental data s
 | Valid Anagram | O(n) | O(1) | Frequency Count |
 | Contains Duplicate II | O(n) | O(k) | Sliding Window |
 
-## 📈 Recommended Learning Path
-
+## Recommended Learning Path
 1. Start with **TWOS-SUM.java** - Basic array manipulation
 2. Move to **CONTAINS-DUPLICATES.java** - Introduction to hashing
 3. Explore **VALID-ANAGRAM.java** - String processing concepts
 4. Master **CONTAIN-DUPLICATES-TWO.java** - Advanced sliding window
 
-## 🔗 Related Topics
-
+## Related Topics
 - HashSet/HashMap data structures
 - Array operations and iteration
 - Sliding window technique
 - String manipulation in Java
 - Time-Space complexity tradeoffs
 
-## 📚 Resources
-
+## Resources
 - LeetCode DSA problems
 - Competitive coding platforms
 - Technical interview preparation
 - Data structures fundamentals
 
-## 🤝 Contributing
-
+## Contributing
 Feel free to:
 - Submit optimized solutions
 - Add more DSA problems
 - Improve documentation
 - Report issues
 
-## 📄 License
-
+## License
 Open source for educational purposes
 
-## ⭐ Acknowledgments
-
+## Acknowledgments
 Built for learning and interview preparation. Happy coding!
